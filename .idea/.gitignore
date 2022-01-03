@@ -24,6 +24,7 @@ local.properties
 # Locally stored "Eclipse launch configurations"
 *.launch
 
+
 # PyDev specific (Python IDE for Eclipse)
 *.pydevproject
 
